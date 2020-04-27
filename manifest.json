@@ -1,0 +1,16 @@
+{
+  "name": "WebApp - First App",
+  "short_name": "FirstApp",
+  "description": "My First APP",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#00cc99",
+  "background_color": "#000",
+  "icons": [
+    {
+      "src": "./512icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
