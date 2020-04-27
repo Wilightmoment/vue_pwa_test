@@ -2,7 +2,7 @@
   "name": "WebApp - First App",
   "short_name": "FirstApp",
   "description": "My First APP",
-  "start_url": "index.html",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#00cc99",
   "background_color": "#000",
